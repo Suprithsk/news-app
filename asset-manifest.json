@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Suprithsk/news-app/static/css/main.abd64e84.css",
-    "main.js": "/Suprithsk/news-app/static/js/main.71dcf0a6.js",
-    "static/js/787.4c026eef.chunk.js": "/Suprithsk/news-app/static/js/787.4c026eef.chunk.js",
-    "static/media/loading.gif": "/Suprithsk/news-app/static/media/loading.f4d71b7e2329eafbaea7.gif",
-    "index.html": "/Suprithsk/news-app/index.html",
-    "main.abd64e84.css.map": "/Suprithsk/news-app/static/css/main.abd64e84.css.map",
-    "main.71dcf0a6.js.map": "/Suprithsk/news-app/static/js/main.71dcf0a6.js.map",
-    "787.4c026eef.chunk.js.map": "/Suprithsk/news-app/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/newsapp/static/css/main.abd64e84.css",
+    "main.js": "/newsapp/static/js/main.9fbd9994.js",
+    "static/js/787.4c026eef.chunk.js": "/newsapp/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/newsapp/static/media/loading.f4d71b7e2329eafbaea7.gif",
+    "index.html": "/newsapp/index.html",
+    "main.abd64e84.css.map": "/newsapp/static/css/main.abd64e84.css.map",
+    "main.9fbd9994.js.map": "/newsapp/static/js/main.9fbd9994.js.map",
+    "787.4c026eef.chunk.js.map": "/newsapp/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.71dcf0a6.js"
+    "static/js/main.9fbd9994.js"
   ]
 }
